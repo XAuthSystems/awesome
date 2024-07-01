@@ -226,6 +226,7 @@
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 - [Bluetooth Low Energy](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
+- [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 
 ## Programming Languages
 
@@ -917,6 +918,7 @@
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+- [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 
 ## Related
 
